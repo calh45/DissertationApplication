@@ -1,0 +1,26 @@
+.targetTable {
+    width: 100%;
+    border-bottom: 2px solid lightgrey;
+    border-radius: 5px;
+}
+
+.targetTableRow {
+    padding: 2pc;
+}
+
+.reportHeader {
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 1px solid grey;
+    border-radius: 15px;
+    width: 20%;
+    margin-top: 1pc;
+    margin-bottom: 1pc;
+}
+
+.labeler {
+    width: 1pc;
+    height: 0.5pc;
+}

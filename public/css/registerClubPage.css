@@ -1,0 +1,16 @@
+.registerClubFormContainer {
+    position: fixed;
+    height: 500px;
+    width: 700px;
+    background-color: lightgrey;
+    border-radius: 2px;
+    top: 80px;
+    right: 290px;
+    overflow: scroll;
+
+}
+
+.registerClubFormStyle {
+    background-image: linear-gradient(grey,darkgrey, lightgrey);
+    text-align: center;
+}

@@ -1,0 +1,137 @@
+.monthContainer {
+    height: 35px;
+    width: 100%;
+    background-color: whitesmoke;
+    border-top: black 1px solid;
+    border-bottom: black 1px solid;
+    border-radius: 2px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.monthText {
+    font-size: 25px;
+    color: slategrey;
+    justify-content: center;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.eventContainer {
+    margin: 10px;
+}
+
+.eventDate {
+    height: 100%;
+    font-size: 15px;
+    padding: 10px;
+    border-right: 1px solid grey;
+    margin-right: 85px;
+}
+
+
+.eventName {
+    font-size: 15px;
+    position: relative;
+    margin-right: 50px;
+}
+
+.eventType {
+    font-size: 15px;
+    position: relative;
+    margin-right: 50px;
+}
+
+.eventLocationBorder {
+    display: inline-block;
+    position: relative;
+    bottom: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.eventLocation {
+    font-size: 15px;
+    position: relative;
+}
+
+
+.dateBorder {
+    height: 78%;
+    width: 20%;
+    border-right: 1px solid grey;
+}
+
+.formContainer {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+.submitButton {
+    float: right;
+}
+
+.focusedEventName {
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 100px;
+    padding-bottom: 15px;
+}
+
+.availability {
+    padding-left: 100px;
+}
+
+.unavailableList {
+    padding-top: 60px;
+    padding-left: 15px;
+    padding-right: 100px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.unavailableHeader {
+    text-align: center;
+    border-bottom: 1px solid black ;
+    border-radius: 5px;
+}
+
+.deleteButton {
+    margin-left: 90px;
+    display: inline-block;
+    font-size: 15px;
+}
+
+.lineupHeader {
+    text-align: center;
+    border-bottom: 1px solid black ;
+    border-radius: 5px;
+}
+
+.lineupList {
+    padding-top: 60px;
+    padding-left: 15px;
+    padding-right: 100px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.links {
+    text-decoration: none;
+    color: black;
+}
+
+.matchStats {
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.matchStatsHeader {
+    text-align: center;
+    border-bottom: 1px solid black ;
+    border-radius: 5px;
+}

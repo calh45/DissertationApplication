@@ -1,0 +1,78 @@
+.pageTable {
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+}
+
+.pageRowColumn {
+    text-align: center;
+    padding: 5px;
+}
+
+.container-manager {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(grey,darkgrey, lightgrey);
+}
+
+.tableItem {
+    width: 100%;
+    height: 90%;
+    background: whitesmoke;
+    border-radius: 15px;
+    overflow: auto;
+}
+
+.playerHolder {
+    width: 100%;
+    height: 90px;
+    margin-bottom: 3px;
+    background: lightgrey;
+    border-bottom: 1px solid black;
+}
+
+.playerHolderPerformance {
+    width: 100%;
+    height: 20px;
+    margin-bottom: 3px;
+    background: lightgrey;
+    border-bottom: 1px solid black;
+}
+
+.tableItemHeader {
+    min-width: 420px;
+    max-width: 420px;
+    width: 420px;
+    height: 10px;
+    min-height: 10px;
+    max-height: 10px;
+    background: whitesmoke;
+    font-size: 15pc;
+}
+
+
+.text-decoration-none {
+    text-decoration: none !important;
+    color: black;
+}
+
+.miniCalendar {
+    padding: 5px;
+    width: 100%;
+}
+
+.miniRow {
+    padding: 5px;
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.playerTable {
+    width: 100%;
+}
+
+.labeler {
+    width: 1pc;
+    height: 0.5pc;
+}
+

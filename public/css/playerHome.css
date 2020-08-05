@@ -1,0 +1,14 @@
+.playerNavOption {
+    margin-right: 20px;
+}
+
+.topLinks {
+    text-decoration: none;
+    text-underline: none;
+    color: black;
+}
+
+.topLinks:hover {
+    color: grey;
+    text-underline: none;
+}

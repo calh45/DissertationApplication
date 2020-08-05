@@ -1,0 +1,164 @@
+.columnSpacing {
+    padding: 15px;
+    margin: 10px;
+    width: 80%;
+}
+
+.statsTable {
+    width: 100%;
+    padding: 10px;
+    margin: 3px;
+}
+
+.statsTableCR {
+    border: 1px solid black;
+    padding: 3px;
+    margin: 2px;
+}
+
+.balanceDisp {
+    padding-right: 40px;
+
+}
+
+.balanceContainer {
+    margin-bottom: 50px;
+}
+
+.reminderButton {
+    font-size: 11px;
+}
+
+.analysisContainer {
+    width: 100%;
+    margin: 5px;
+    text-align: center;
+}
+
+.analysisSeparator {
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
+
+.observationContainer {
+    background-color: white;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    display: inline-block;
+    width: 30%;
+    margin-right: 3px;
+    margin-left: 3px;
+
+}
+
+.targetContainer {
+    background-color: white;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    display: inline-block;
+    width: 30%;
+    margin-right: 3px;
+    margin-left: 3px;
+
+}
+
+.targetTable {
+    width: 100%;
+}
+
+.suggestedTargetContainer {
+    background-color: white;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    display: inline-block;
+    width: 30%;
+    margin-right: 3px;
+    margin-left: 3px;
+
+}
+
+.analysisTable {
+    width: 100%;
+}
+
+.subHeader {
+    width: 100%;
+    height: 40px;
+    padding: 2px;
+    text-align: center;
+    border: 1px solid lightgrey;
+    background: rgba(0, 0, 0, 0.07);
+}
+
+.observation {
+    height: 30px;
+}
+
+.observationTable {
+    width: 100%;
+}
+
+.imageContainer {
+    float: left;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.fourCornersContainer {
+    width: 100%;
+    padding: 5px;
+    margin: 2px;
+
+}
+
+.fourCornersTable {
+    width: 80%;
+    border: 1px solid lightgrey;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.fourCornerHeader {
+    text-align: center;
+    border: 1px solid lightgrey;
+    background: rgba(0, 0, 0, 0.07);
+    height: 40px;
+}
+
+.fourCornersInput {
+    background: white;
+    width: 100%;
+    font-size: 15px;
+    height: 8pc;
+}
+
+.fourCornersSubmit {
+    margin-left: 8.5pc;
+}
+
+.newTargetButton {
+    width: 3pc;
+    height: 2pc;
+    float: right;
+}
+
+.labeler {
+    width: 1pc;
+    height: 0.5pc;
+    display: inline-block;
+}
+
+.targetName {
+    width: 10%;
+}
+
+.targetScore {
+    width: 10%;
+}
+
+.suggestedSubmit {
+    width: 3pc;
+    height: 1.8pc;
+    font-size: 12px;
+}

@@ -1,0 +1,17 @@
+.targetTable {
+    width: 100%;
+    padding: 3px;
+    border: 1px solid black;
+}
+
+.playerHolder {
+    width: 100%;
+    height: 90px;
+    margin-bottom: 3px;
+    border: 1px solid black;
+}
+
+.labeler {
+    width: 1pc;
+    height: 0.5pc;
+}

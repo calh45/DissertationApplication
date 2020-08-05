@@ -1,0 +1,84 @@
+.bestPerformersContainer {
+    width: 50%;
+    margin: 5px;
+}
+
+.bestPerformersOutline {
+    width: 80%;
+    border: 1px solid whitesmoke;
+    border-radius: 7px;
+    margin-left: 70px;
+}
+
+.containerHeader {
+    min-width: 100%;
+    max-width: 100%;
+    width: 100%;
+    height: 40px;
+    min-height: 40px;
+    max-height: 40px;
+    background: whitesmoke;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid lightgrey;
+}
+
+.containerContent {
+    width: 100%;
+    background: white;
+    border: 1px solid lightgrey;
+    height: 20pc;
+    overflow: auto;
+
+}
+
+.currentlyPromotedContainer {
+    width: 50%;
+    margin: 5px;
+}
+
+.currentlyPromotedOutline {
+    width: 80%;
+    border: 1px solid whitesmoke;
+    border-radius: 7px;
+    margin: 15px;
+}
+
+.suggestedPromotionContainer {
+    width: 100%;
+}
+
+.suggestedPromotionsOutline {
+    width: 80%;
+    border: 1px solid whitesmoke;
+    border-radius: 7px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pageContainer {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.performerColumn {
+    padding: 10px;
+}
+
+.promoteButton {
+    float: right;
+}
+
+.suggestedPromotionsTable {
+    width: 100%;
+}
+
+.noneSuitable {
+    width: 100%;
+    text-align: center;
+
+}
+
+.text-decoration-none {
+    text-decoration: none !important;
+    color: black;
+}

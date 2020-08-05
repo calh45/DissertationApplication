@@ -1,0 +1,81 @@
+.eventContainer {
+    padding: 10px;
+    text-align: center;
+}
+
+.homeContainer {
+    position: relative;
+    display: inline-block;
+    font-size: 25px;
+}
+
+.scoreContainer {
+    position: relative;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 30px;
+}
+
+.awayContainer {
+    position: relative;
+    display: inline-block;
+    font-size: 25px;
+}
+
+.timerContainer {
+    text-align: center;
+    align-content: center;
+
+}
+
+.timer {
+    display: inline-block;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.timerButton {
+    display: inline-block;
+    font-size: 10px;
+}
+
+.homeScore {
+    display: inline-block;
+    align-content: center;
+    margin-left: 5px;
+    font-size: 40px;
+}
+
+.awayScore {
+    display: inline-block;
+    align-content: center;
+    margin-right: 5px;
+    font-size: 40px;
+}
+
+.playerName {
+    padding: 10px;
+}
+
+.statInput {
+    width: 50px;
+    padding: 3px;
+}
+
+.attributeName {
+    padding: 3px;
+}
+
+.separator {
+    font-size: 25px;
+    padding-left: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.submitButton {
+    margin-left: auto;
+    margin-right: auto;
+    right: 50%;
+}
